@@ -28,3 +28,11 @@ Welcome to the Animal CRUD App! This application provides a simple interface to 
 ```bash
 git clone https://github.com/your_username/animal-crud-app.git
 
+# Install frontend dependencies
+cd Frontend
+npm install
+
+# Install backend dependencies
+cd ..
+cd Backend
+npm install
